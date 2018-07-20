@@ -11,12 +11,11 @@ In your `settings.py` file add the following lines:
 
 ```
 DRIFT_CHAT_WIDGET = {
-    'ID': '[YOUR ID]',
-    'SNIPPET_VERSION': '[SNIPPET VERSION]'
+    'ID': '[YOUR ID]'
 }
 ```
 
-Your `ID` and `SNIPPET_VERSION` can be obtained [here](https://app.drift.com/settings/widget) in the **JavaScript** section.
+Your `ID` can be obtained [here](https://app.drift.com/settings/widget) in the **JavaScript** section.
 *Note: The values in `drift.load('YOUR ID');` represent your `ID`*
 
 Lastly, add `drift_chatwidget` to your `INSTALLED_APPS` section.

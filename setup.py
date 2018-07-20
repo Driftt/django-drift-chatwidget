@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='django-drift-chatwidget',
-      version='0.1.0',
+      version='0.1.1',
       description="Easily add Drift's chat widget to your Django apps.",
       long_description=open('README.md').read(),
       author='Lemuel Boyce',
