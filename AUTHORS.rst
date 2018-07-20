@@ -1,0 +1,1 @@
+The django-drift-chatwidget package was written by [Lemuel Boyce](mailto:lemuelboyce@gmail.com).
