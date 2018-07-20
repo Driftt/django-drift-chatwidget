@@ -25,7 +25,7 @@ Lastly, add `drift_chatwidget` to your `INSTALLED_APPS` section.
 ### Templates
 ```
 {% load drift_chat_widget %}
-{% chatwidget %}
+{% drift_chatwidget %}
 ```
 
 You should now be able to see the chat widget on pages where the template tag is included.
