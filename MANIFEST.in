@@ -1,0 +1,2 @@
+include README.md
+include drift_chatwidget/templates/drift_chatwidget/js_snippet.html
