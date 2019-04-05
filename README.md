@@ -11,7 +11,7 @@ In your `settings.py` file add the following lines:
 
 ```
 DRIFT_CHAT_WIDGET = {
-    'ID': '[YOUR ID]'
+    'ID': 'YOUR ID'
 }
 ```
 
